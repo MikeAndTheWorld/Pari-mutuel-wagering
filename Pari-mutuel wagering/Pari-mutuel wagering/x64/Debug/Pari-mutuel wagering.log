@@ -1,0 +1,7 @@
+﻿  Win.cpp
+d:\code\work\pari-mutuel wagering\pari-mutuel wagering\src\win.cpp(50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Exacta.cpp
+  Generating Code...
+  Pari-mutuel wagering.vcxproj -> D:\Code\work\Pari-mutuel wagering\x64\Debug\Pari-mutuel wagering.exe
+  Pari-mutuel wagering.vcxproj -> D:\Code\work\Pari-mutuel wagering\x64\Debug\Pari-mutuel wagering.pdb (Partial PDB)
